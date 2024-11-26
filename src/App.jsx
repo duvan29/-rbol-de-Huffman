@@ -64,7 +64,7 @@ const App = () => {
         <p>
           Creado por{" "}
           <a
-            href="https://github.com/duvan29"
+            href="https://github.com/duvan29/Arbol-de-Huffman"
             target="_blank"
             rel="noopener noreferrer"
             className="text-blue-400 hover:text-blue-600"
