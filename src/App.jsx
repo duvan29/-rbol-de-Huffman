@@ -15,7 +15,7 @@ const App = () => {
 
   return (
     <>
-      <div className=" flex flex-wrap items-start justify-start sm:justify-center w-screen  p-5 sm:p-10 ">
+      <div className=" flex flex-wrap items-start justify-center w-screen  p-5 sm:p-10 ">
         <div>
           <div style={{ flex: 1 }}>
             <h1 className=" text-4xl sm:text-5xl font-bold">
